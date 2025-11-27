@@ -1,0 +1,31 @@
+.subtitle {
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.container{
+  padding-top: 12%;
+}
+
+.phone-text {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.card {
+  border-radius: 12px;
+  background-color: peru;
+  color: black;
+}
+
+.card-body{
+  background-color: whitesmoke;
+  border-radius: 15px;
+}
+
+img.rounded {
+  border-radius: 10px;
+}
+a{
+  color: saddlebrown;
+}

@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(62, 62, 62);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+/* Navbar brand image */
+.navbar img {
+  width: 40px;
+  height: auto;
+}
+
+/* Navbar links */
+#navmenu li a {
+  margin-right: 20px;
+}
+.img-fluid{
+    height: 500px;
+}
+
+/* Card button */
+.card button {
+  border-radius: 7px;
+  border: none;
+  background-color: grey;
+  color: white;
+  font-size: 18px;
+  padding: 5px 15px;
+}
+
+/* Featurette headings */
+.featurette-heading {
+  font-size: 2.5rem;
+  color: rgb(226, 206, 210);
+}
+
+.lead {
+  font-size: 1.2rem;
+}

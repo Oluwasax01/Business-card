@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(243, 211, 246);
+    color: black !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.navbar{
+    background-color: rgb(3, 130, 82);
+    font-weight: 700;
+}
+.container-fluid a img{
+    width: 40px;
+}
+.navbar-nav li{
+    padding-left: 70PX;
+}
+.card-header{
+    font-weight: 700;
+    font-size: 25px;
+}
+button{
+    background-color: rgb(32, 45, 14);
+    color: rgb(243, 211, 246);
+    border-style: groove;
+    border-radius: 300px;
+    border-color: white;
+}
+table{
+    background-color: gray;
+    color: greenyellow;
+    border-style: groove;
+}
+th,td{
+    padding-right: 25px;
+}
